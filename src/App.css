@@ -1,3 +1,23 @@
+.beauty {
+  background-color: maroon;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  color: whitesmoke;
+  margin-bottom: 8px;
+  margin: 8px;
+  border-radius: 10px;
+}
+.Beauty2 {
+  background-color: maroon;
+  color: whitesmoke;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 600px;
+}
+
 .App {
   text-align: center;
 }
